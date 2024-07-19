@@ -1,5 +1,14 @@
+body{
+    background-color: black;
+}
+
 h1{
     text-align: center;
-    color: blue;
+    color: #0c2e82;
     font-size: 50px;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
 }
